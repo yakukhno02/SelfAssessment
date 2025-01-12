@@ -1,16 +1,16 @@
 ## Architecture
 
-- Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
+- Application structure 
+  - Modularity *
+  - Components ~
+  - Directories ~
+  - GRASP ~
+  - SOLID ~
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
+  - Multiparadigm code ~
+  - Contract programming 
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
@@ -18,10 +18,10 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability *
+  - Quality *
+  - Availability *
+  - Flexibility *
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -29,8 +29,8 @@
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
+  - Separation of concerns (SoC) ~
+  - Metaprogramming 
   - Inversion of control (IoC)
   - Dependency injection (DI)
   - Clean architecture
@@ -45,7 +45,7 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML +
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -61,16 +61,16 @@
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
+  - A software requirements specification (SRS) ~
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design ~
   - Process modelling
   - Data modelling
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds *
   - BPMN
   - Low-code
   - No-code
@@ -85,10 +85,10 @@
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope ~
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices 
   - Process choreography
   - Service orchestration
   - Data warehouse

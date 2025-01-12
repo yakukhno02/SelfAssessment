@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
+  - Procedural programming ~
+  - Imperative programming 
   - Structured programming
   - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Functional programming +
+  - Prototype-based programming 
+  - Object-oriented programming +
+  - Object-based programming 
   - Generic programming
   - Concurrent computing
   - Asynchronous programming
-  - Parallel programming
+  - Parallel programming ~
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -20,28 +20,28 @@
   - Multi-paradigm programming
   - Metaprogramming
   - Actor model
-  - Lambda calculus
+  - Lambda calculus *
   - Black box
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
+  - Constructor 
+  - Operator `new` *
   - Static method
-  - Method
+  - Method ~
   - Async method
   - Getters, Setters
   - Public fields
   - Private fields
   - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
+  - Inheritance +
+  - Parent class +
+  - Polymorphism +
+  - Abstract class 
   - Interface
-  - Encapsulation
+  - Encapsulation +
   - Hidden class
   - Object form
   - Instance
@@ -51,14 +51,14 @@
 - GRASP
   - Information expert
   - Creator
-  - Controller
+  - Controller ~
   - Indirection
   - Low coupling
   - High cohesion
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
+  - Single-responsibility principle (SRP) ~
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
@@ -73,12 +73,12 @@
   - Facade
   - Proxy
   - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
+  - Command *
+  - Iterator *
+  - State ~
   - Bridge
-  - Builder
-  - Prototype
+  - Builder 
+  - Prototype ~
   - Composite
   - Decorator
   - Flyweight
