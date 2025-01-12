@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming ~
-  - Imperative programming 
+  - Procedural programming: 👂 heard
+  - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming +
-  - Prototype-based programming 
-  - Object-oriented programming +
-  - Object-based programming 
+  - Functional programming: 🎓 known
+  - Prototype-based programming
+  - Object-oriented programming: 🎓 known
+  - Object-based programming
   - Generic programming
   - Concurrent computing
   - Asynchronous programming
-  - Parallel programming ~
+  - Parallel programming: 👂 heard
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -20,28 +20,28 @@
   - Multi-paradigm programming
   - Metaprogramming
   - Actor model
-  - Lambda calculus *
+  - Lambda calculus: 🖐️ used
   - Black box
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor 
-  - Operator `new` *
+  - Constructor
+  - Operator `new`: 🖐️ used
   - Static method
-  - Method ~
+  - Method: 👂 heard
   - Async method
   - Getters, Setters
   - Public fields
   - Private fields
   - Field declarations
-  - Inheritance +
-  - Parent class +
-  - Polymorphism +
-  - Abstract class 
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
+  - Polymorphism: 🎓 known
+  - Abstract class
   - Interface
-  - Encapsulation +
+  - Encapsulation: 🎓 known
   - Hidden class
   - Object form
   - Instance
@@ -51,14 +51,14 @@
 - GRASP
   - Information expert
   - Creator
-  - Controller ~
+  - Controller: 👂 heard
   - Indirection
   - Low coupling
   - High cohesion
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP) ~
+  - Single-responsibility principle (SRP): 👂 heard
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
@@ -73,12 +73,12 @@
   - Facade
   - Proxy
   - Chain of Responsibility
-  - Command *
-  - Iterator *
-  - State ~
+  - Command: 🖐️ used
+  - Iterator: 🖐️ used
+  - State: 👂 heard
   - Bridge
-  - Builder 
-  - Prototype ~
+  - Builder
+  - Prototype: 👂 heard
   - Composite
   - Decorator
   - Flyweight

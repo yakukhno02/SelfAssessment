@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types *
+  - Data types: 🖐️ used
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -10,9 +10,9 @@
   - Relational databases
   - Key-value store
   - Tuple store
-  - Graph databases ~
-  - Object databases ~
-  - Column databases ~
+  - Graph databases: 👂 heard
+  - Object databases: 👂 heard
+  - Column databases: 👂 heard
   - Navigational databases
   - Hierarchical databases
   - In-memory databases
@@ -72,12 +72,12 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL ~
+  - MySQL: 👂 heard
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB ~
+  - MongoDB: 👂 heard
   - Memcached
   - Riak
   - DB2
@@ -89,6 +89,6 @@
   - Business intelligence
   - Big data
   - Data analysis
-  - AI tools *
-  - Cloud databases ~
+  - AI tools: 🖐️ used
+  - Cloud databases: 👂 heard
   - Data Visualization
