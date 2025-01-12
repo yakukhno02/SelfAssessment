@@ -73,7 +73,7 @@
   - Facade
   - Proxy
   - Chain of Responsibility
-  - Command
+  - Command ~
   - Iterator
   - State
   - Bridge

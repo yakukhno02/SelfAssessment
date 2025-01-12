@@ -2,11 +2,11 @@
 
 - Language
   - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
+  - `Function` ~
+  - `Boolean` ~
+  - `Number` ~
+  - `BigInt` 
+  - `String` ~
   - `Symbol`
   - `Infinity`
   - `NaN`
@@ -19,7 +19,7 @@
   - `typeof`
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators ~
   - Async generator
   - Async iterator
   - Chaining
@@ -33,7 +33,7 @@
   - `__proto__`
   - `prototype`
   - Equality operators
-  - Logical operators
+  - Logical operators ~
   - Logical Assignment
   - Bitwise operators
   - Ternary operator
@@ -59,21 +59,21 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
+  - `if` *
+  - `while` *
+  - `do..while` ~
+  - `for` *
   - `for..in`
   - `for..of`
   - `for await`
   - `throw`
-  - `break`
-  - `continue`
+  - `break` ~
+  - `continue` 
   - `import`
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
+  - `switch` *
   - `class`
   - `extends`
   - `with`
@@ -88,7 +88,7 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` *
 - Data structures
   - `Array`
   - `Map`

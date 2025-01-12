@@ -67,7 +67,7 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S) ~
   - TCP/SSL
   - UDP
   - TLS
@@ -79,7 +79,7 @@
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS ~
   - XSS
   - Path traversal
   - CSRF
@@ -92,14 +92,14 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing *
   - CI/CD
   - Readable
   - Writable
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console ~
   - Inspector
 - Data access
   - Data access layer

@@ -9,9 +9,9 @@
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm *
   - Programming paradigm
-  - Programming language
+  - Programming language *
   - Contract
   - Module
   - Library
@@ -23,7 +23,7 @@
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering ~
   - Decomposition
   - Control flow
   - Data flow
@@ -32,42 +32,42 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value ~
+  - Identifier ~
+  - Variable ~
+  - Constant ~
+  - Scalar 
+  - Literal 
+  - Expression ~
   - Heap
-  - Function
+  - Function ~
   - Procedure
   - Method
-  - Class
-  - Prototype
+  - Class 
+  - Prototype 
   - Event
-  - Type
+  - Type ~
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops ~
   - Assignment
   - Regular expression
-  - Interface
+  - Interface ~
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
+  - Camel case ~
   - Snake case
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types ~
+  - Reference types 
   - Type systems
   - Strong typing
   - Weak typing
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument ~
+  - Parameter ~
   - Pure function
   - Lambda expression
   - Side effects
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler ~
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,15 +157,15 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger ~
   - Tracing
   - Garbage collection
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git ~
+  - Github ~
   - Docker
   - Kubernetes
   - GCC
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers ~
   - Kernel
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux +
+  - Unix *
   - BSD
-  - MacOS
-  - Windows
+  - MacOS *
+  - Windows *
   - Real-time OS
   - Embedded OS
 - Standards
