@@ -1,15 +1,15 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
+  - Modularity: 🖐️ used
+  - Components: 👂 heard
+  - Directories: 👂 heard
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code: 👂 heard
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -18,10 +18,10 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🖐️ used
+  - Flexibility: 🖐️ used
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -29,7 +29,7 @@
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC): 👂 heard
   - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)
@@ -45,7 +45,7 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML: 🎓 known
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -61,16 +61,16 @@
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
+  - A software requirements specification (SRS): 👂 heard
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design: 👂 heard
   - Process modelling
   - Data modelling
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds: 🖐️ used
   - BPMN
   - Low-code
   - No-code
@@ -85,7 +85,7 @@
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope: 👂 heard
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices

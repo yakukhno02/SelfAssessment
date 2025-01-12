@@ -19,7 +19,7 @@
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
-  - Command line interface (CLI) tools
+  - Command line interface (CLI) tools: 👂 heard
   - .NET CLI
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
@@ -37,7 +37,7 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
+  - HTTP/HTTPS support: 👂 heard
   - WebSockets for real-time communication
   - TCP/UDP networking
   - SSL/TLS for secure connections
@@ -103,7 +103,7 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals
+  - C++ syntax and language fundamentals: 🖐️ used
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
   - `C++/CLI` syntax and usage
